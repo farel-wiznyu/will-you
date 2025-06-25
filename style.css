@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(243, 113, 153);
+    font-family: Arial;
+    color: white;
+}
+
+.judul {
+    justify-items: center;
+    margin-top: 40dvh;
+    
+}
+
+.tombol {
+    background-color: rgb(229, 56, 136);
+    border-radius: 30px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+}
+
